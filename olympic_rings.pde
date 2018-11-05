@@ -1,4 +1,5 @@
 // add olympic rings code here
+size(600,600);
 //black ring
 strokeWeight(10);
 stroke(0);
